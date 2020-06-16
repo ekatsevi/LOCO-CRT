@@ -4,7 +4,7 @@ The LOCO CRT is a computationally efficient version of the conditional randomiza
 
 This repository contains code to reproduce the numerical simulations from the paper:
 
-E. Katsevich and A. Ramdas, The leave-one-covariate-out conditional randomization test, 2020 (arXiv).
+E. Katsevich and A. Ramdas, The leave-one-covariate-out conditional randomization test, 2020 [(arXiv)](https://arxiv.org/abs/2006.08482).
 
 The script reproduce_all.R carries out our numerical experiments sequentially and plots the results. We do not recommend executing all of it directly, since our simulations are computationally intensive. We carried out these computations on the [Bridges supercomputer](https://www.psc.edu/bridges) through the NSF [XSEDE](https://www.xsede.org/) project. 
 
